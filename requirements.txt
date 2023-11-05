@@ -1,2 +1,4 @@
 pyrogram
 pymongo
+tgcrypto==1.2.5
+python-telegram-bot==13.15
